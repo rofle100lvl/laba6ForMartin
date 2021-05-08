@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Flats>
+    <flat>
+        <name>1</name>
+        <coordinates>
+            <x>11.0</x>
+            <y>12.0</y>
+        </coordinates>
+        <area>2.0</area>
+        <numberOfRooms>3</numberOfRooms>
+        <price>4</price>
+        <balcony>true</balcony>
+        <furnish>FINE</furnish>
+        <house>
+            <name>6</name>
+            <year>7</year>
+            <numberOfFloors>8</numberOfFloors>
+            <numberOfFlatsOnFloor>9</numberOfFlatsOnFloor>
+            <numberOfLifts>10</numberOfLifts>
+        </house>
+    </flat>
+</Flats>
